@@ -1,6 +1,6 @@
 # Pong in Python
 
-![Game Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![Python Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 
 ## Description
 
@@ -8,7 +8,7 @@ This is a classic Pong game developed in Python using the Turtle library. Player
 
 ## Technologies Used
 
-- **Language:** Python (https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+- **Language:** Python ![Python Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
 - **Library:** [Turtle](https://docs.python.org/3/library/turtle.html): Used for simple graphics and animations.
 
 ## Installation
@@ -35,7 +35,7 @@ Player 2 (right):
 Up Arrow: Move up
 Down Arrow: Move down
 The game ends when one player scores a point by letting the ball pass.
-Screenshots
+
 ![Captura de pantalla 2024-10-25 a las 13 05 13](https://github.com/user-attachments/assets/6d348e84-d622-4a12-b421-ce720ecf8084)
 
 
@@ -52,32 +52,11 @@ Contributions
 If you would like to contribute, please create a pull request or open an issue to discuss your ideas. Contributions are welcome!
 
 
-markdown
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ # Español: 
  Pong en Python
 
-![Logo del Juego](ruta/al/logo.png) <!-- Cambia esta ruta por la imagen del logo que quieras usar -->
+![Logo Python ](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
 
 ## Descripción
 
@@ -85,7 +64,7 @@ Este es un juego clásico de Pong desarrollado en Python utilizando la bibliotec
 
 ## Tecnologías Utilizadas
 
-- **Lenguaje:** Python
+- **Lenguaje:** Python ![Logo Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
 - **Biblioteca:** [Turtle](https://docs.python.org/3/library/turtle.html): Usada para gráficos simples y animaciones.
 
 ## Instalación
@@ -104,7 +83,6 @@ Cómo Jugar
 
 Ejecuta el juego:
 bash
-Copiar código
 python main.py
 Controles:
 Jugador 1 (izquierda):
@@ -116,7 +94,8 @@ Flecha abajo: Mover hacia abajo
 El juego termina cuando uno de los jugadores anota un punto al permitir que la bola pase.
 Capturas de Pantalla
 
-<!-- Cambia esta ruta por una captura de pantalla del juego -->
+![Captura de pantalla 2024-10-25 a las 13 04 54](https://github.com/user-attachments/assets/9563e96f-102f-48cd-bff0-644f3f154dc7)
+
 
 Estructura del Código
 
@@ -130,22 +109,6 @@ Contribuciones
 
 Si deseas contribuir, por favor crea un pull request o abre un issue para discutir tus ideas. ¡Las contribuciones son bienvenidas!
 
-Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
-
-markdown
-Copiar código
-
-### Sugerencias para Mejorar el README
-
-1. **Agregar un Logo:** Crea un logo para el juego utilizando herramientas como Canva o Adobe Spark y súbelo a tu repositorio.
-
-2. **Capturas de Pantalla:** Juega un poco y toma capturas de pantalla del juego en acción. Puedes añadir una o varias imágenes para mostrar cómo se ve el juego.
-
-3. **Enlaces:** Asegúrate de que los enlaces a tu repositorio y a las bibliotecas (como Turtle) sean correctos.
-
-4. **Formato y Estilo:** Utiliza negritas y títulos para facilitar la lectura. Markdown permite personalizar el formato para hacer el texto más atractivo.
 
 ### Recursos Adicionales
 
@@ -155,6 +118,4 @@ Si te gustaría obtener más detalles sobre la biblioteca Turtle o sobre la prog
 - [Tutoriales de Pygame](https://www.pygame.org/docs/)
 - [Real Python](https://realpython.com/) para tutoriales y ejemplos en Python.
 
-### Ejecución del Proyecto
 
-Asegúrate de que el proyecto funcione correctamente y prueba todos los aspectos del juego antes de publicarlo. ¡Diviértete mejorando tu README y tu juego! Si tienes más preguntas o necesitas más ayuda, ¡estaré aquí!
