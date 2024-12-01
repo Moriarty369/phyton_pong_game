@@ -73,7 +73,7 @@ Para instalar el juego, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+   git clone https://github.com/Moriarty369/phyton_pong_game.git
 Navega al directorio del proyecto:
 bash
 Copiar código
